@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/hyperkube:1.1.3
+FROM gcr.io/google_containers/hyperkube:1.0.1
